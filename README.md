@@ -1,4 +1,4 @@
-# Scuolabook-downloader
+# Scuolabook Downloader
 Download purchased ebooks on Scuolabook for personal offline use.
 
 ### Usage
